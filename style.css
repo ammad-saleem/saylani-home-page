@@ -1,0 +1,349 @@
+
+.div{
+    background-color:rgb(255, 255, 255);
+    height: 10px;
+    padding: 90px;
+    background-size: 80% 100%;
+    
+}
+h6{
+ text-align: center;
+ font-size-adjust:small;
+margin: 17px;
+ background-size: 80% 300%;
+
+ 
+   
+}
+.button{background-color: #e7e7e7; color: green;
+    position: absolute;
+    right: 230px;
+    top: 20px;   
+    padding:0px;
+    margin:0px 5px;
+    font-size: 1.9ex;
+}
+.button1{background-color: #e7e7e7; color: green;
+    position: absolute;
+    right: 150px;
+    top: 20px;   
+    padding:0px;
+    margin:0px -13px 7px;
+    font-size:1.9ex
+
+    
+    
+}
+.button2{background-color: #e7e7e7; color:green;
+    position: absolute;
+    right: 40px;
+    top: 20px; 
+    padding:0px;  
+    margin: 0px -4px 10px;
+    font-size: 1.9ex;
+
+}
+
+  
+  .ammad7{ 
+    position: relative;
+    left: -500px;
+    top: -50px;   
+    padding:5px;
+    margin:0px 490px;
+    font-size: 2ex;
+    word-spacing: 20px;
+
+}
+body {
+  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+}
+
+.topnav a {
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+
+.topnav a:hover {
+  background-color:rgb(0, 132, 255);
+  color: white;
+  margin-left: 180px;
+}
+
+.topnav a.active {
+  background-color: rgb(0, 132, 255);
+  color: black;
+}
+  
+   h1 {
+       text-align: center;
+    color: green
+    
+  }
+  
+  .heading span {
+    color:rgb(0, 132, 255);
+  }
+div{
+    text-align: center;
+    position: relative;
+    right: 50px;
+
+}
+p{
+    text-align: center;
+    font-style: italic;
+    line-height: 1.9;
+}
+#main div {
+    -ms-flex: 5;  /* IE 10 */  
+    flex: 3;
+    position: relative;
+   margin-left: -180px;
+    color: honeydew;
+  }
+  #main {
+    width: 1450px;
+    height: 300px;
+   
+    display: flex;
+    
+        text-align: center;
+     color: green;
+     
+    }
+    
+     span {
+     color:white;
+    }
+    h1 {
+        text-align: center;
+     color: green
+     
+   }
+   
+   .heading span {
+     color:rgb(0, 132, 255);
+   }
+   div{
+    text-align: center;
+    position: relative;
+    right: 20px;
+}
+div.ammad1 {
+    width: 310px;
+    height:220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    position:relative;
+    right:-150px;
+    top:100px ;
+  }
+  div.container {
+    padding: 5px;
+  }
+  div.ammad2 {
+    width: 310px;
+    height:220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    position:relative;
+    left: 400px;
+    top: -150px;
+    
+  }
+  div.container {
+    padding: 5px;
+    
+  }
+div.ammad3 {
+  width: 310px;
+  height:220px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  position:relative;
+  left: 400px;
+  top: -150px;
+  
+}
+div.container {
+  padding: 5px;
+  
+}
+div.ammad4 {
+    width: 310px;
+    height:220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    position:relative;
+    right:800px;
+        top: 150px;
+    
+  }
+  div.container {
+    padding: 5px;
+    
+  }
+  div.polaroid {
+    width: 310px;
+    height:220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    position:relative;
+    left: 400px;
+    top: -150px;
+  }
+  
+  div.container {
+    padding: 5px;
+  }
+  div.polaroid1 {
+    width: 310px;
+    height:220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    position:relative;
+    left: 400px;
+    top: -133px;
+  }
+  
+  div.container {
+    padding: 5px;
+  }
+ 
+  div.ammad9 {
+    color: rgb(0, 132, 255);
+    text-align: left;
+    position: relative;
+    left: -750px;
+    margin-left: 800px;
+  }
+  div.ammad8{
+     
+      position: relative;
+      left: -470px;
+      top: -100px;
+      size: 10px;
+      margin:40px 500px;
+
+
+  }
+  div.slides{
+    padding-top: 50px;
+    border: 1px solid black;
+    margin-left: 180px;
+
+  }
+  div.ammad12{
+    position: relative;
+    left: 100px;
+    width: 320px;
+    height: 80px;
+    color:rgb(0, 132, 255);
+    margin-left: 380px;
+  }
+  div.ammad13{
+    position: relative;
+    top: -80px;
+    left: -350px;
+    width: 320px;
+    height: 80px;
+    color:rgb(0, 132, 255);
+    margin-left: 300px;
+
+  }
+  div.ammad14{
+   
+      color:white;
+     }
+     h3 {
+        text-align: center;
+        position: relative;
+        left: 50px;
+      color: green
+      
+    }
+    div.ammad15{
+    left: 50px;
+    }
+div.ammad16{
+  left:-170px ;
+  
+  width: 240px;
+  height: 250px;
+  margin: 0px 0px 0px 0px;
+}
+div.ammad17{
+  top: -250px;
+  left: 65px;
+  width: 240px;
+  height: 250px;
+  margin: 0px 0px 0px 0px;
+}
+div.ammad18{
+  top: -500px;
+  left: 300px;
+  width: 240px;
+  height: 250px;
+  margin: 0px 0px 0px 0px;
+
+}
+div.ammad19{
+  top: -750px;
+  left: 535px;
+  width: 240px;
+  height: 250px;
+  margin: 0px 0px 0px 0px;
+}
+div.ammad20{
+  top: -1000px;
+  left: 770px;
+  width: 240px;
+  height: 250px;
+  margin: 0px 0px 0px 0px;
+
+}
+div.ammad21{
+  background-color: #25272e;
+ height:350px;
+ width: 2000px;
+ right:1100px;
+ margin-left: 80px;
+
+}
+div.ammad22{
+  color: aliceblue;
+  right:750px;
+}
+div.ammad23{
+  top:-260px;
+  left: 280px;
+ 
+}
+div.ammad24{
+
+  top: -290px;
+}
+div.ammad25{
+  background-color: rgb(0, 132, 255);
+  margin-top: -100px;
+  margin-left: -180px;
+}
+div.ammad26{
+  margin-left: -280px;
+}
+div.ammad27{
+ margin-top: -180px;
+  margin-left: 180px;
+}
